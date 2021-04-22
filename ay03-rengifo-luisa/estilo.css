@@ -1,15 +1,19 @@
 #titulo {
     border-radius: 10px;
+    padding: 20px;
     background: darkred;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 #pizzas {
-    color: 
-    text-shadow:;
+    font-size: 80px;
+    text-shadow: 0px 3px 3px grey;
 }
+
 .nav {
+    border: solid black;
     padding: 2px;
     font-size: 40px;
-
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+
