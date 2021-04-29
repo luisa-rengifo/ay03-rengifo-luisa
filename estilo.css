@@ -46,3 +46,25 @@ div {
     border: solid grey;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 20px;
+}
+
+#final {
+    padding: 4px;
+    border: solid darkred;
+}
+
+#boton {
+    padding: 4px;
+    background: darkred;
+    font-size: 20px;
+}
+
+#boton2 {
+    width: 30px;
+     height: 30px;
+     -moz-border-radius: 50%;
+     -webkit-border-radius: 50%;
+     border-radius: 50%;
+     background:darkred;
+     margin: 20px;
+}
